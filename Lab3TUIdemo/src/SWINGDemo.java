@@ -1,11 +1,3 @@
-# UI Lab 3
-
-# Результат роботи програми:
-
-![](Lab3TUIdemo/image/res01.png)
-
-# Код SWINGDemo:
-````java
 package com.mybank.tui;
 
 import com.mybank.data.DataSource;
@@ -110,4 +102,3 @@ public class SWINGDemo {
     }
 
 }
-````
