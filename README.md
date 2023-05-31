@@ -1,10 +1,10 @@
 # UI Lab 3
 
-#Результат роботи програми:
+# Результат роботи програми:
 
 ![](Lab3TUIdemo/image/res01.png)
 
-#Код SWINGDemo:
+# Код SWINGDemo:
 ````java
 package com.mybank.tui;
 
